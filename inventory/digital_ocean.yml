@@ -1,0 +1,5 @@
+webservers:
+  hosts:
+    christianjbrown.com
+  vars:
+    ansible_user: chris

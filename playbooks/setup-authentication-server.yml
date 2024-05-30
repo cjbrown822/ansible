@@ -1,0 +1,5 @@
+- name: Setup Authelia and Caddy
+  ansible_user: chris
+  become: yes
+  ansible_become: yes
+  
